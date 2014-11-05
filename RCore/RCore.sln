@@ -5,6 +5,11 @@ VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RCore", "RCore\RCore.csproj", "{9FB8A134-464A-4F58-9508-06E9FF4DF2D7}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PlanXML", "PlanXML", "{00F706FB-30FC-41FD-95AB-D2BC25344B25}"
+	ProjectSection(SolutionItems) = preProject
+		PlanXML\Full Plan Operator.xml = PlanXML\Full Plan Operator.xml
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
