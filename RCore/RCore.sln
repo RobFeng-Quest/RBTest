@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RCore", "RCore\RCore.csproj
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PlanXML", "PlanXML", "{00F706FB-30FC-41FD-95AB-D2BC25344B25}"
 	ProjectSection(SolutionItems) = preProject
-		PlanXML\Full Plan Operator.xml = PlanXML\Full Plan Operator.xml
+		PlanXML\Full Plan Operator.sqlplan = PlanXML\Full Plan Operator.sqlplan
 	EndProjectSection
 EndProject
 Global
